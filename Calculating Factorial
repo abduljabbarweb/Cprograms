@@ -1,4 +1,6 @@
-#include <iostream>  
+//iostream is header file. We include this file to use its pre-defined Functions.
+#include <iostream> 
+//std mean standard library
 using namespace std;  
 int main()  
 {  
